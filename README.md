@@ -1,5 +1,5 @@
-# customer_behavior_analysis
-data analytics project showcasing customer behavior analysis using python,sql and power Bi.
+# Customer_Behavior_Analysis
+Data analytics project showcasing customer behavior analysis using python,sql and power Bi.
 
 Data Analytics Project – End-to-End BI Solution
 Overview
